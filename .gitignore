@@ -1,0 +1,156 @@
+# Python関連
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg-info/
+*.eggs/
+*.whl
+
+# 環境設定ファイル
+.env
+.venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebookチェックポイント
+.ipynb_checkpoints/
+
+# コンパイルされたバイナリファイル
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# パッケージ関連
+*.egg
+*.log
+*.manifest
+*.spec
+
+# PyInstaller
+# PyInstallerによって生成されたバイナリはdistフォルダに出力されます
+/dist/
+/build/
+/*.spec
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Dist/Python packaging
+.Python
+develop-eggs/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# ビジュアルスタジオコード
+.vscode/
+
+# MacOS
+.DS_Store
+
+# バックアップファイル
+*.bak
+*.swp
+*.tmp
+*.log
+
+# プロジェクト固有のファイル
+# (ここにプロジェクト特有のファイルやディレクトリを追加します)
+
+# IDE関連
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+*.code-workspace
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+*.sql
+*.csv
+*.tsv
+
+# OS特有
+Thumbs.db
+ehthumbs.db
+
+# ライブバージョンのドキュメント
+docs/_build/
+site/
+
+# テスト結果
+.test-results/
+test-results/
+
+# Coverage reports
+coverage/
+*.cover
+
+# Pyright
+pyright/
+
+# pyenv
+python_env/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# Jupyter Notebookの設定ファイル
+.jupyter/
+
+# Flaskなどのデータベースファイル
+instance/
+.webassets-cache
+
+# PyCharm
+.idea/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.cache
+
+# Spyder
+.spyderproject
+.spyproject
+
+# Windows
+*.lnk
+
+*png
+
