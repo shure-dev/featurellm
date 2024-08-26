@@ -154,3 +154,6 @@ dmypy.json
 
 *png
 
+images/
+
+notebooks/
