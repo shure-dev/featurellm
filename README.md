@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" width="100">
+</p>
+
 <h1 align="center">🎯 Weighted Token Sampler 🎯</h1>
+
 
 <p align="center">
   <em>Enhancing prediction accuracy by leveraging token probabilities to compute a weighted average</em>
