@@ -152,7 +152,7 @@ dmypy.json
 # Windows
 *.lnk
 
-*png
+# *png
 
 images/
 

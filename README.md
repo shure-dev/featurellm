@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;"> -->
-  <img src="images/image.png" alt="Logo" style="width:400px; height:auto;">
+  <img src="diagram/image.png" alt="Logo" style="width:400px; height:auto;">
 <!-- ![alt text](/images/image.png) -->
 
 </p>
