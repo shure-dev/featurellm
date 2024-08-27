@@ -3,11 +3,13 @@
 
 <h5 align="center">Project Page: https://shure-dev.github.io/weighted-token-sampler/</h5>
 
-<!-- <p align="center">
-  <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;">
-</p> -->
+<p align="center">
+  <!-- <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;"> -->
+  <img src="images/image.png" alt="Logo" style="width:400px; height:auto;">
+<!-- ![alt text](/images/image.png) -->
 
-![alt text](/images/image.png)
+</p>
+
 
 <p align="center">
   <em>Boost prediction accuracy using weighted token sampling</em>
