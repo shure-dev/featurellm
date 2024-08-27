@@ -7,7 +7,7 @@
   <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;">
 </p> -->
 
-![alt text](images/image.png)
+![alt text](/images/image.png)
 
 <p align="center">
   <em>Boost prediction accuracy using weighted token sampling</em>
