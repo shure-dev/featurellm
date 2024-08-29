@@ -1,7 +1,7 @@
-<h1 align="center">🎯 Weighted Token Sampler 🎯</h1>
+<h1 align="center">🎯 FeatureLLM 🎯</h1>
 
 
-<h5 align="center">Project Page: https://shure-dev.github.io/weighted-token-sampler/</h5>
+<h5 align="center">Project Page: https://shure-dev.github.io/featurellm/</h5>
 
 <p align="center">
   <!-- <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;"> -->
@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <em>Boost prediction accuracy using weighted token sampling</em>
+  <em>Boost prediction accuracy using token probablity</em>
   
 </p>
 
@@ -28,23 +28,11 @@
 
 <p>Install the package with:</p>
 
-<pre><code>pip install git+https://github.com/your_username/weighted_token_sampler.git</code></pre>
+<pre><code>pip install git+https://github.com/your_username/featurellm.git</code></pre>
 
 <h2>🚀 Quick Start</h2>
+<pre><code>pip install git+https://github.com/your_username/featurellm.git</code></pre>
 
-<p>Here’s how to use the package:</p>
-
-<pre><code>from weighted_token_sampler.main_module import ImageProcessor
-
-# Initialize with your API key
-processor = ImageProcessor(api_key="your_api_key_here")
-
-# Generate points and get predictions
-points = processor.generate_evenly_spaced_points(10)
-for i, point in enumerate(points):
-    response_x, response_y, _ = processor.process_image_and_get_response(point, i)
-    print(f"Point: {point}, X: {response_x}, Y: {response_y}")
-</code></pre>
 
 <h2>🏁 Conclusion</h2>
 

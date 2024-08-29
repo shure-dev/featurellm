@@ -159,3 +159,5 @@ images/
 notebooks/
 
 # *.html
+
+*.json
