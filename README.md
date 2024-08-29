@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <em>Boost prediction accuracy using token probablity</em>
+  <em>Boost prediction accuracy using next token probabilities as features</em>
   
 </p>
 
