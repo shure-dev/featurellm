@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- <img src="https://img.freepik.com/premium-vector/abstract-circle-circular-wave-wavy-lines-futuristic-bright-futurism-minimalist-vector-logo-design_216988-1808.jpg" alt="Logo" style="width:200px; height:auto;"> -->
-  <img src="diagram/image.png" alt="Logo" style="width:600px; height:auto;">
+  <img src="diagram/featurellm.png" alt="Logo" style="width:600px; height:auto;">
 <!-- ![alt text](/images/image.png) -->
 
 </p>
@@ -21,7 +21,7 @@
 <h2>🔍 Overview</h2>
 
 <p>
-  <strong>Weighted Token Sampler</strong> is a simple tool that improves prediction accuracy by calculating the weighted average of token probabilities. It's designed for tasks where precise predictions are needed within a defined range.
+  <strong>FeatureLLM</strong> is a simple tool that improves prediction accuracy by calculating the weighted average of token probabilities. It's designed for tasks where precise predictions are needed within a defined range.
 </p>
 
 <h2>💻 Installation</h2>
@@ -37,5 +37,5 @@
 <h2>🏁 Conclusion</h2>
 
 <p>
-  <strong>Weighted Token Sampler</strong> is a straightforward tool to enhance prediction accuracy. Try it out in your projects to see the benefits!
+  <strong>FeatureLLM</strong> is a straightforward tool to enhance prediction accuracy. Try it out in your projects to see the benefits!
 </p>
